@@ -2,4 +2,4 @@
 # salude llamándolo por su nombre.
 
 nombre = input("Ingrese su nombre: ")
-print("Hola, " + nombre + "!")
+print("Hola, ", nombre, "!")
