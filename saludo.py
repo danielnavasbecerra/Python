@@ -1,6 +1,4 @@
-edad = int(input("Ingresa tu edad: "))
-print("El próximo año tendrás", edad + 1, "años.")
-
-#Hola xd
-
-#xd
+#Escriba un programa que pida al usuario que escriba su nombre, y lo
+#salude llamándolo por su nombre.
+nombre = input("Ingrese su nombre: ")
+print("Hola, " + nombre + "!")
