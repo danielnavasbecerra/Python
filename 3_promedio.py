@@ -6,5 +6,5 @@ n2 = int(input("Segunda nota: "))
 n3 = int(input("Tercera nota: "))
 n4 = int(input("Cuarta nota: "))
 
-oper = (n1 + n2 + n3 + n4) / 4
-prom = print("El promedio es: ", round(oper, 2))
+prom = (n1 + n2 + n3 + n4) / 4
+print("El promedio es: ", round(prom, 2))
